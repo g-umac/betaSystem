@@ -1,0 +1,171 @@
+[
+    {
+        "firstname": "Max ",
+        "lastname": "Mustermann",
+        "orders": [
+            {
+                "orderNumber": 1,
+                "order": [
+                    {
+                        "product": "Schreibtisch",
+                        "preis": "249,99"
+                    },
+                    {
+                        "product": "Stuhl",
+                        "preis": "129,99"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "firstname": "Peter",
+        "lastname": "Mueller",
+        "orders": [
+            {
+                "orderNumber": 3,
+                "order": [
+                    {
+                        "product": "Monitor",
+                        "preis": "239,79"
+                    }
+                ]
+            },
+            {
+                "orderNumber": 1,
+                "order": [
+                    {
+                        "product": "Mouse",
+                        "preis": "239,79"
+                    },
+                    {
+                        "product": "Keyboard",
+                        "preis": "129,99"
+                    }
+                ]
+            },
+            {
+                "orderNumber": 2,
+                "order": [
+                    {
+                        "product": "Microfiber cloth",
+                        "preis": "239,79"
+                    },
+                    {
+                        "product": "Carpet",
+                        "preis": "129,99"
+                    },
+                    {
+                        "product": "Carpet",
+                        "preis": "129,99"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "firstname": "Julia ",
+        "lastname": "Vogt",
+        "orders": [
+            {
+                "orderNumber": 2,
+                "order": [
+                    {
+                        "product": "Laptop Tragetasche",
+                        "preis": "39,99"
+                    },
+                    {
+                        "product": "Laptop",
+                        "preis": "742,90 "
+                    }
+                ]
+            },
+            {
+                "orderNumber": 1,
+                "order": [
+                    {
+                        "product": "Handy-Ladekabel",
+                        "preis": "13,90"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "firstname": "Jan ",
+        "lastname": "Acker",
+        "orders": [
+            {
+                "orderNumber": 1,
+                "order": [
+                    {
+                        "product": "Schuhe",
+                        "preis": "83,00"
+                    },
+                    {
+                        "product": "Wintermantel",
+                        "preis": "139,99 "
+                    }
+                ]
+            },
+            {
+                "orderNumber": 2,
+                "order": [
+                    {
+                        "product": "Hose",
+                        "preis": "69,99"
+                    },
+                    {
+                        "product": "Pullover",
+                        "preis": "69,99 "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "firstname": "Hans ",
+        "lastname": "Schulz",
+        "orders": [
+            {
+                "orderNumber": 1,
+                "order": [
+                    {
+                        "product": "Rucksack",
+                        "preis": "239,79"
+                    }
+                ]
+            },
+            {
+                "orderNumber": 3,
+                "order": [
+                    {
+                        "product": "Maus",
+                        "preis": "49,49"
+                    },
+                    {
+                        "product": "Tastatur",
+                        "preis": "120,00"
+                    },
+                    {
+                        "product": "Mauspad",
+                        "preis": "29,50"
+                    }
+                ]
+            },
+            {
+                "orderNumber": 2,
+                "order": [
+                    {
+                        "product": "Mikrofasertuch",
+                        "preis": "7,49"
+                    },
+                    {
+                        "product": "Halskette",
+                        "preis": "300,00"
+                    }
+                ]
+            }
+        ]
+    }
+]

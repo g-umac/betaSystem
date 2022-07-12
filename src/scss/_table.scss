@@ -1,0 +1,32 @@
+ 
+ @import './_variables.scss' ;
+ 
+ .item-table {
+  th {
+    &:hover {
+      background-color: $color-pink !important;
+      color: #fff;
+    }
+  }
+  .sort-button {
+    svg {
+      height: 20px;
+      width: 20px;
+    }
+    :hover {
+      cursor: pointer;
+    }
+  }
+
+  #item-row {
+    &:hover {
+      height: 60px;
+      td {
+        padding-top: 20px;
+        border: none;
+        background-color: $color-pink !important;
+        color: #fff;
+      }
+    }
+  }
+}
